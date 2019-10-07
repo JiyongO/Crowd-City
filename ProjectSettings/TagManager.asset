@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - CITIZEN
+  - BLUE
+  - RED
+  - YELLOW
+  - GREEN
   layers:
   - Default
   - TransparentFX
