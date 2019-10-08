@@ -9,6 +9,8 @@ TagManager:
   - RED
   - YELLOW
   - GREEN
+  - RED_Agent
+  - YELLOW_Agent
   layers:
   - Default
   - TransparentFX

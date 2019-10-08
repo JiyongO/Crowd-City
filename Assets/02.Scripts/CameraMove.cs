@@ -9,12 +9,14 @@ public class CameraMove : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        offset = transform.position - targetTF.position;
+        //offset = transform.position - targetTF.position;
     }
 
     // Update is called once per frame
     void Update()
     {
-        transform.position = targetTF.position + offset;
+        Vector3 newPos = targetTF.position + new Vector3(0, 12, -10);
+        transform.position = newPos;
+        //transform.position = targetTF.position + offset;
     }
 }

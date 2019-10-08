@@ -1,24 +1,20 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.AI;
+﻿using UnityEngine;
 
 public class Player : PlayerControl
 {
-    float h, v;
-    int? myCnt;
+    public delegate void PlayerDeathDel();
+    public static event PlayerDeathDel PlayerDeathEvent;
 
-    new void Start()
-    {
-        myCnt = GetMyCount(tag);
-        nav = GetComponent<NavMeshAgent>();
-        mat = GetComponent<MeshRenderer>().material;
-    }
+    float h, v;
     private void FixedUpdate()
     {
         h = Input.GetAxis("Horizontal");
         v = Input.GetAxis("Vertical");
         Vector3 dir = new Vector3(h, 0, v);
-        nav.velocity = dir.normalized * nav.speed;        
-    }    
+        nav.velocity = dir.normalized * nav.speed;
+    }
+    private void OnDisable()
+    {
+        PlayerDeathEvent?.Invoke();
+    }
 }
