@@ -6280,7 +6280,7 @@ MonoBehaviour:
   playerImg: {fileID: 0}
   playerNumTxt: {fileID: 0}
   yellow: {fileID: 0}
-  yellowimg: {fileID: 0}
+  yellowImg: {fileID: 0}
   yelNumTxt: {fileID: 0}
   red: {fileID: 0}
   redImg: {fileID: 0}
@@ -6293,6 +6293,7 @@ MonoBehaviour:
     m_PostInfinity: 2
     m_RotationOrder: 4
   gameoverPanel: {fileID: 0}
+  images: []
 --- !u!1 &996711545
 GameObject:
   m_ObjectHideFlags: 0
@@ -9614,7 +9615,7 @@ MonoBehaviour:
   playerImg: {fileID: 849786740}
   playerNumTxt: {fileID: 356126039}
   yellow: {fileID: 1698198595}
-  yellowimg: {fileID: 1479552955}
+  yellowImg: {fileID: 1479552955}
   yelNumTxt: {fileID: 79902848}
   red: {fileID: 853867008}
   redImg: {fileID: 1951673660}
@@ -9645,6 +9646,7 @@ MonoBehaviour:
     m_PostInfinity: 2
     m_RotationOrder: 4
   gameoverPanel: {fileID: 950062644}
+  images: []
 --- !u!1 &1395460488
 GameObject:
   m_ObjectHideFlags: 0
@@ -12928,19 +12930,19 @@ MonoBehaviour:
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 137
-    m_FontStyle: 0
+    m_Font: {fileID: 12800000, guid: 8a2b9e2a607dd2143b58c44bc32410b4, type: 3}
+    m_FontSize: 146
+    m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 10
-    m_MaxSize: 147
+    m_MaxSize: 164
     m_Alignment: 5
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 00.00
+  m_Text: 0.0
 --- !u!222 &1765309481
 CanvasRenderer:
   m_ObjectHideFlags: 0

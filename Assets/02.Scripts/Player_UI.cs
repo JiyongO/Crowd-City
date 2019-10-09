@@ -11,7 +11,7 @@ public class Player_UI : MonoBehaviour
     public Image playerImg;
     public Text playerNumTxt;
     public GameObject yellow;
-    public Image yellowimg;
+    public Image yellowImg;
     public Text yelNumTxt;
     public GameObject red;
     public Image redImg;
@@ -29,7 +29,13 @@ public class Player_UI : MonoBehaviour
 
     public static int playerCnt = 0, redCnt = 0, yelCnt = 0;
     Dictionary<Image, int> ranks = new Dictionary<Image, int>();
-    int[] counts;
+    public Image[] images;
+    void GameInit()
+    {
+        playerCnt = 0;
+        redCnt = 0;
+        yelCnt = 0;
+    }
     private void OnEnable()
     {
         Follower.CountingEvent += AddCount;
@@ -81,19 +87,22 @@ public class Player_UI : MonoBehaviour
     }
     void Start()
     {
+        GameInit();
         playerNumTxt.text = playerCnt.ToString();
         redNumTxt.text = redCnt.ToString();
         yelNumTxt.text = yelCnt.ToString();
         gameOver.gameObject.SetActive(false);
         endPos = gameoverPanel.transform.position;
+
+        images = new Image[3];
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (timeLimit - Time.time > 0)
-            timeTxt.text = (timeLimit - Time.time).ToString("0.##");
-        if (Time.time > timeLimit)
+        if (timeLimit - Time.timeSinceLevelLoad > 0)
+            timeTxt.text = (timeLimit - Time.timeSinceLevelLoad).ToString("0.#");
+        if (Time.timeSinceLevelLoad > timeLimit)
         {
             if(!isOver)
             {
@@ -109,7 +118,7 @@ public class Player_UI : MonoBehaviour
     }
     void DirectionUI()
     {
-        yellowimg.gameObject.transform.position = CalculateScreenPos(yellow.transform.position);
+        yellowImg.gameObject.transform.position = CalculateScreenPos(yellow.transform.position);
         redImg.gameObject.transform.position = CalculateScreenPos(red.transform.position);
         playerImg.gameObject.transform.position = CalculateScreenPos(player.transform.position) + Vector2.up * offset * 10;
     }
@@ -136,7 +145,7 @@ public class Player_UI : MonoBehaviour
                 redImg.gameObject.SetActive(false);
                 break;
             case "Yellow":
-                yellowimg.gameObject.SetActive(false);
+                yellowImg.gameObject.SetActive(false);
                 break;
             case "Player":
                 playerImg.gameObject.SetActive(false);
@@ -148,14 +157,56 @@ public class Player_UI : MonoBehaviour
     void OnGameOver()
     {
         gameOver.gameObject.SetActive(true);
-
-        ranks.Add(playerImg, playerCnt);
-        ranks.Add(redImg, redCnt);
-        ranks.Add(yellowimg, yelCnt);
-
+        GetRank();
+        //Time.timeScale = 0.2f;
+        
+    }
+    void GetRank()
+    {
+        if (playerCnt >= redCnt && playerCnt >= yelCnt)
+        {
+            images[0] = playerImg;
+            if (redCnt >= yelCnt)
+            {
+                images[1] = redImg;
+                images[2] = yellowImg;
+            }
+            else
+            {
+                images[1] = yellowImg;
+                images[2] = redImg;
+            }
+        }
+        else if (playerCnt >= redCnt && playerCnt <= yelCnt)
+        {
+            images[0] = yellowImg;
+            images[1] = playerImg;
+            images[2] = redImg;
+        }
+        else if (playerCnt >= yelCnt && playerCnt <= redCnt)
+        {
+            images[0] = redImg;
+            images[1] = playerImg;
+            images[2] = yellowImg;
+        }
+        else
+        {
+            images[2] = playerImg;
+            if (redCnt >= yelCnt)
+            {
+                images[0] = redImg;
+                images[1] = yellowImg;
+            }
+            else
+            {
+                images[0] = yellowImg;
+                images[1] = redImg;
+            }
+        }
     }
     public void Restart()
     {
+        //Time.timeScale = 1;
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
     private void OnDisable()

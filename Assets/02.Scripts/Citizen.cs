@@ -25,6 +25,5 @@ public class Citizen : MonoBehaviour
             nav.SetDestination(new Vector3(Random.Range(-50, 50), 1, Random.Range(-50, 50)));
             yield return new WaitForSeconds(3f);
         }
-        yield return null;
     }
 }
