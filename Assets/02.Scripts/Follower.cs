@@ -8,23 +8,30 @@ public class Follower : PlayerControl
     public static event CountingDel CountingEvent;
     public static event CountingDel SubCountEvent;
     public GameObject parent;
+    public GameObject ps;
     private void OnEnable()
     {
         CountingEvent?.Invoke(tag);
-    }
-    //new void Start()
-    //{
-    //    base.Start();
-    //    parent = GetComponentInParent<Player>()?.gameObject;
-    //    if (parent == null)
-    //    {
-    //        Debug.Log("el if" + name);
-    //        parent = GetComponentInParent<PlayerAI>()?.gameObject;
-    //    }
-    //    transform.parent = parent.transform;
-    //}
+        switch (tag)
+        {
+            case "BLUE":
+                ps = Instantiate(Resources.Load("BlueEffect") as GameObject, transform);
+                break;
+            case "RED":
+                ps = Instantiate(Resources.Load("RedEffect") as GameObject, transform);
+                break;
+            case "YELLOW":
+                ps = Instantiate(Resources.Load("YellowEffect") as GameObject, transform);
+                break;
 
-    // Update is called once per frame
+            default:
+                break;
+        }        
+    }
+    private void Start()
+    {
+        base.Start();
+    }
     void Update()
     {
         nav.SetDestination(parent.transform.position);
