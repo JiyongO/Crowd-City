@@ -28,7 +28,7 @@ public class Follower : PlayerControl
                 break;
         }        
     }
-    private void Start()
+    private new void Start()
     {
         base.Start();
     }

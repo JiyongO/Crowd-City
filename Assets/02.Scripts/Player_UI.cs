@@ -38,6 +38,7 @@ public class Player_UI : MonoBehaviour
     List<Transform> highscoreEntryTransformList;
     private void Awake()
     {
+        GameInit();
         Debug.Log(PlayerPrefs.GetString("highscoreTable"));
     }
     class Highscores
@@ -148,7 +149,6 @@ public class Player_UI : MonoBehaviour
     }
     void Start()
     {
-        GameInit();
         entryTemplate.gameObject.SetActive(false);
         playerNumTxt.text = playerCnt.ToString();
         redNumTxt.text = redCnt.ToString();
@@ -256,48 +256,6 @@ public class Player_UI : MonoBehaviour
         string json = JsonUtility.ToJson(highscores);
         PlayerPrefs.SetString("highscoreTable", json);
         PlayerPrefs.Save();
-        #region old Ranking
-        //if (playerCnt >= redCnt && playerCnt >= yelCnt)
-        //{
-        //    images[0] = playerImg;
-        //    if (redCnt >= yelCnt)
-        //    {
-        //        images[1] = redImg;
-        //        images[2] = yellowImg;
-        //    }
-        //    else
-        //    {
-        //        images[1] = yellowImg;
-        //        images[2] = redImg;
-        //    }
-        //}
-        //else if (playerCnt >= redCnt && playerCnt <= yelCnt)
-        //{
-        //    images[0] = yellowImg;
-        //    images[1] = playerImg;
-        //    images[2] = redImg;
-        //}
-        //else if (playerCnt >= yelCnt && playerCnt <= redCnt)
-        //{
-        //    images[0] = redImg;
-        //    images[1] = playerImg;
-        //    images[2] = yellowImg;
-        //}
-        //else
-        //{
-        //    images[2] = playerImg;
-        //    if (redCnt >= yelCnt)
-        //    {
-        //        images[0] = redImg;
-        //        images[1] = yellowImg;
-        //    }
-        //    else
-        //    {
-        //        images[0] = yellowImg;
-        //        images[1] = redImg;
-        //    }
-        //}
-        #endregion
     }
     public void Restart()
     {

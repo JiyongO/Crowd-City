@@ -11,6 +11,7 @@ TagManager:
   - GREEN
   - RED_Agent
   - YELLOW_Agent
+  - Obstacle
   layers:
   - Default
   - TransparentFX

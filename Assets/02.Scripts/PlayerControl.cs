@@ -104,7 +104,7 @@ public class PlayerControl : MonoBehaviour
     {   
         Debug.Log("t enter from " + name);
         Follower f = other.GetComponent<Follower>();
-        other.transform.parent = transform;
+        //other.transform.parent = transform;
         other.GetComponent<MeshRenderer>().material = mat;
         if (other.GetComponent<PlayerAI>())
         {
@@ -128,12 +128,15 @@ public class PlayerControl : MonoBehaviour
         {
             case "RED":
                 f.parent = GameObject.Find("Red");
+                other.transform.parent = f.parent.transform;
                 break;
             case "YELLOW":
                 f.parent = GameObject.Find("Yellow");
+                other.transform.parent = f.parent.transform;
                 break;
             case "BLUE":
                 f.parent = GameObject.Find("Player");
+                other.transform.parent = f.parent.transform;
                 Debug.Log("parenting P");
                 break;
         }
