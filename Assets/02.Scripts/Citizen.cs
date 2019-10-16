@@ -12,12 +12,6 @@ public class Citizen : MonoBehaviour
         nav = GetComponent<NavMeshAgent>();
         StartCoroutine(MoveCitizen());
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
     IEnumerator MoveCitizen()
     {
         while (true)
