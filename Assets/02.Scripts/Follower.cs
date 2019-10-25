@@ -9,6 +9,10 @@ public class Follower : PlayerControl
     public static event CountingDel SubCountEvent;
     public GameObject parent;
     public GameObject ps;
+    private void Awake()
+    {
+        
+    }
     private void OnEnable()
     {
         CountingEvent?.Invoke(tag);
@@ -34,7 +38,8 @@ public class Follower : PlayerControl
     }
     void Update()
     {
-        nav.SetDestination(parent.transform.position);
+        if (isActive && nav.enabled)
+            nav.SetDestination(parent.transform.position);
     }
     private void OnDisable()
     {

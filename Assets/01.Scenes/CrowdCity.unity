@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44224024, g: 0.4912625, b: 0.5711539, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 4685277}
   - component: {fileID: 4685276}
   - component: {fileID: 4685275}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (127)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -280,7 +280,7 @@ GameObject:
   - component: {fileID: 6723425}
   - component: {fileID: 6723424}
   - component: {fileID: 6723423}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (167)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -425,7 +425,7 @@ GameObject:
   - component: {fileID: 6773509}
   - component: {fileID: 6773508}
   - component: {fileID: 6773507}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (188)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -669,7 +669,7 @@ GameObject:
   - component: {fileID: 35798638}
   - component: {fileID: 35798637}
   - component: {fileID: 35798636}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (165)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -814,7 +814,7 @@ GameObject:
   - component: {fileID: 52280105}
   - component: {fileID: 52280104}
   - component: {fileID: 52280103}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (142)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -959,7 +959,7 @@ GameObject:
   - component: {fileID: 53622534}
   - component: {fileID: 53622533}
   - component: {fileID: 53622532}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (128)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -1283,7 +1283,7 @@ GameObject:
   - component: {fileID: 106107953}
   - component: {fileID: 106107952}
   - component: {fileID: 106107951}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (166)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -1428,7 +1428,7 @@ GameObject:
   - component: {fileID: 107454147}
   - component: {fileID: 107454146}
   - component: {fileID: 107454145}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (129)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -1573,7 +1573,7 @@ GameObject:
   - component: {fileID: 110236993}
   - component: {fileID: 110236992}
   - component: {fileID: 110236991}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (55)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -1784,7 +1784,7 @@ GameObject:
   - component: {fileID: 125439905}
   - component: {fileID: 125439904}
   - component: {fileID: 125439903}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (133)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -1929,7 +1929,7 @@ GameObject:
   - component: {fileID: 128782287}
   - component: {fileID: 128782286}
   - component: {fileID: 128782285}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (87)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -2074,7 +2074,7 @@ GameObject:
   - component: {fileID: 135310625}
   - component: {fileID: 135310624}
   - component: {fileID: 135310623}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (183)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -2219,7 +2219,7 @@ GameObject:
   - component: {fileID: 153029221}
   - component: {fileID: 153029220}
   - component: {fileID: 153029219}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (32)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -2364,7 +2364,7 @@ GameObject:
   - component: {fileID: 165727859}
   - component: {fileID: 165727858}
   - component: {fileID: 165727857}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (52)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -2515,7 +2515,7 @@ GameObject:
   - component: {fileID: 197057222}
   - component: {fileID: 197057221}
   - component: {fileID: 197057220}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (187)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -2739,7 +2739,7 @@ GameObject:
   - component: {fileID: 225894956}
   - component: {fileID: 225894955}
   - component: {fileID: 225894954}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (42)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -2975,7 +2975,7 @@ GameObject:
   - component: {fileID: 255825848}
   - component: {fileID: 255825847}
   - component: {fileID: 255825846}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (81)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -3120,7 +3120,7 @@ GameObject:
   - component: {fileID: 268663743}
   - component: {fileID: 268663742}
   - component: {fileID: 268663741}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (126)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -3443,7 +3443,7 @@ GameObject:
   - component: {fileID: 280301395}
   - component: {fileID: 280301394}
   - component: {fileID: 280301393}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (132)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -3594,7 +3594,7 @@ GameObject:
   - component: {fileID: 300055060}
   - component: {fileID: 300055059}
   - component: {fileID: 300055058}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (123)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -3739,7 +3739,7 @@ GameObject:
   - component: {fileID: 306358001}
   - component: {fileID: 306358000}
   - component: {fileID: 306357999}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (104)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -3884,7 +3884,7 @@ GameObject:
   - component: {fileID: 324236557}
   - component: {fileID: 324236556}
   - component: {fileID: 324236555}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (82)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -4029,7 +4029,7 @@ GameObject:
   - component: {fileID: 325039849}
   - component: {fileID: 325039848}
   - component: {fileID: 325039847}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (92)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -4174,7 +4174,7 @@ GameObject:
   - component: {fileID: 334164108}
   - component: {fileID: 334164107}
   - component: {fileID: 334164106}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (162)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -4319,7 +4319,7 @@ GameObject:
   - component: {fileID: 339641175}
   - component: {fileID: 339641174}
   - component: {fileID: 339641173}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (115)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -4464,7 +4464,7 @@ GameObject:
   - component: {fileID: 343823279}
   - component: {fileID: 343823278}
   - component: {fileID: 343823277}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (94)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -4609,7 +4609,7 @@ GameObject:
   - component: {fileID: 346358455}
   - component: {fileID: 346358454}
   - component: {fileID: 346358453}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (149)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -4754,7 +4754,7 @@ GameObject:
   - component: {fileID: 347457361}
   - component: {fileID: 347457360}
   - component: {fileID: 347457359}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (195)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -4899,7 +4899,7 @@ GameObject:
   - component: {fileID: 347742129}
   - component: {fileID: 347742128}
   - component: {fileID: 347742127}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (99)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -5123,7 +5123,7 @@ GameObject:
   - component: {fileID: 363621841}
   - component: {fileID: 363621840}
   - component: {fileID: 363621839}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (161)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -5268,7 +5268,7 @@ GameObject:
   - component: {fileID: 382867622}
   - component: {fileID: 382867621}
   - component: {fileID: 382867620}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (88)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -5413,7 +5413,7 @@ GameObject:
   - component: {fileID: 386251329}
   - component: {fileID: 386251334}
   - component: {fileID: 386251335}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (10)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -5807,7 +5807,7 @@ GameObject:
   - component: {fileID: 400168923}
   - component: {fileID: 400168928}
   - component: {fileID: 400168929}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (14)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -5952,7 +5952,7 @@ GameObject:
   - component: {fileID: 400479864}
   - component: {fileID: 400479863}
   - component: {fileID: 400479862}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (53)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -6097,7 +6097,7 @@ GameObject:
   - component: {fileID: 405313287}
   - component: {fileID: 405313286}
   - component: {fileID: 405313285}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (45)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -6242,7 +6242,7 @@ GameObject:
   - component: {fileID: 406755925}
   - component: {fileID: 406755924}
   - component: {fileID: 406755923}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (164)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -6387,7 +6387,7 @@ GameObject:
   - component: {fileID: 408183185}
   - component: {fileID: 408183190}
   - component: {fileID: 408183191}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (6)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -6532,7 +6532,7 @@ GameObject:
   - component: {fileID: 417870445}
   - component: {fileID: 417870444}
   - component: {fileID: 417870443}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (36)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -6677,7 +6677,7 @@ GameObject:
   - component: {fileID: 417961379}
   - component: {fileID: 417961378}
   - component: {fileID: 417961377}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (177)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -6822,7 +6822,7 @@ GameObject:
   - component: {fileID: 425072963}
   - component: {fileID: 425072962}
   - component: {fileID: 425072961}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (179)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -6967,7 +6967,7 @@ GameObject:
   - component: {fileID: 431411762}
   - component: {fileID: 431411761}
   - component: {fileID: 431411760}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (118)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -7112,7 +7112,7 @@ GameObject:
   - component: {fileID: 449599426}
   - component: {fileID: 449599425}
   - component: {fileID: 449599424}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (30)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -7257,7 +7257,7 @@ GameObject:
   - component: {fileID: 449669090}
   - component: {fileID: 449669089}
   - component: {fileID: 449669088}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (39)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -7402,7 +7402,7 @@ GameObject:
   - component: {fileID: 450722849}
   - component: {fileID: 450722848}
   - component: {fileID: 450722847}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (139)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -7547,7 +7547,7 @@ GameObject:
   - component: {fileID: 453243526}
   - component: {fileID: 453243525}
   - component: {fileID: 453243524}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (154)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -7692,7 +7692,7 @@ GameObject:
   - component: {fileID: 462550788}
   - component: {fileID: 462550787}
   - component: {fileID: 462550786}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (119)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -7837,7 +7837,7 @@ GameObject:
   - component: {fileID: 469302269}
   - component: {fileID: 469302268}
   - component: {fileID: 469302267}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (48)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -8061,7 +8061,7 @@ GameObject:
   - component: {fileID: 476330033}
   - component: {fileID: 476330032}
   - component: {fileID: 476330031}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (44)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -8206,7 +8206,7 @@ GameObject:
   - component: {fileID: 504912081}
   - component: {fileID: 504912080}
   - component: {fileID: 504912079}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (148)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -8351,7 +8351,7 @@ GameObject:
   - component: {fileID: 511914372}
   - component: {fileID: 511914371}
   - component: {fileID: 511914370}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (121)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -8496,7 +8496,7 @@ GameObject:
   - component: {fileID: 536750015}
   - component: {fileID: 536750014}
   - component: {fileID: 536750013}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (120)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -8641,7 +8641,7 @@ GameObject:
   - component: {fileID: 542439831}
   - component: {fileID: 542439830}
   - component: {fileID: 542439829}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (95)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -8786,7 +8786,7 @@ GameObject:
   - component: {fileID: 544324246}
   - component: {fileID: 544324245}
   - component: {fileID: 544324244}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (93)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -8931,7 +8931,7 @@ GameObject:
   - component: {fileID: 550488002}
   - component: {fileID: 550488001}
   - component: {fileID: 550488000}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (31)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -9076,7 +9076,7 @@ GameObject:
   - component: {fileID: 557568080}
   - component: {fileID: 557568079}
   - component: {fileID: 557568078}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (100)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -9312,7 +9312,7 @@ GameObject:
   - component: {fileID: 573362441}
   - component: {fileID: 573362440}
   - component: {fileID: 573362439}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (90)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -9457,7 +9457,7 @@ GameObject:
   - component: {fileID: 596211050}
   - component: {fileID: 596211049}
   - component: {fileID: 596211048}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (74)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -9602,7 +9602,7 @@ GameObject:
   - component: {fileID: 600301832}
   - component: {fileID: 600301831}
   - component: {fileID: 600301830}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (65)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -9747,7 +9747,7 @@ GameObject:
   - component: {fileID: 615225611}
   - component: {fileID: 615225610}
   - component: {fileID: 615225609}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (150)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -9892,7 +9892,7 @@ GameObject:
   - component: {fileID: 619512912}
   - component: {fileID: 619512911}
   - component: {fileID: 619512910}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (110)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -10037,7 +10037,7 @@ GameObject:
   - component: {fileID: 633653273}
   - component: {fileID: 633653272}
   - component: {fileID: 633653271}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (102)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -10348,7 +10348,7 @@ GameObject:
   - component: {fileID: 644257855}
   - component: {fileID: 644257854}
   - component: {fileID: 644257853}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (138)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -10493,7 +10493,7 @@ GameObject:
   - component: {fileID: 658957010}
   - component: {fileID: 658957009}
   - component: {fileID: 658957008}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (105)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -10638,7 +10638,7 @@ GameObject:
   - component: {fileID: 668548482}
   - component: {fileID: 668548481}
   - component: {fileID: 668548480}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (156)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -10783,7 +10783,7 @@ GameObject:
   - component: {fileID: 679539092}
   - component: {fileID: 679539091}
   - component: {fileID: 679539090}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (98)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -10928,7 +10928,7 @@ GameObject:
   - component: {fileID: 687984533}
   - component: {fileID: 687984532}
   - component: {fileID: 687984531}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (77)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -11254,7 +11254,7 @@ Light:
   serializedVersion: 9
   m_Type: 1
   m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 1
+  m_Intensity: 0.6
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -11299,7 +11299,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_BoundingSphereOverride: {x: 0, y: 3.634019e-20, z: 7.54e-43, w: 2.7872936e-20}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -11310,13 +11310,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 705507993}
-  m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
-  m_LocalPosition: {x: 0, y: 55, z: 0}
+  m_LocalRotation: {x: -0.21788774, y: -0.7763572, z: 0.4683285, w: -0.3611967}
+  m_LocalPosition: {x: 0, y: 13.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+  m_LocalEulerAnglesHint: {x: 62.2, y: -229.9, z: 0}
 --- !u!1 &715687696
 GameObject:
   m_ObjectHideFlags: 0
@@ -11423,7 +11423,7 @@ GameObject:
   - component: {fileID: 731431215}
   - component: {fileID: 731431220}
   - component: {fileID: 731431221}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (16)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -11568,7 +11568,7 @@ GameObject:
   - component: {fileID: 774582415}
   - component: {fileID: 774582414}
   - component: {fileID: 774582413}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (145)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -11804,7 +11804,7 @@ GameObject:
   - component: {fileID: 800927895}
   - component: {fileID: 800927894}
   - component: {fileID: 800927893}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (34)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -11949,7 +11949,7 @@ GameObject:
   - component: {fileID: 807199989}
   - component: {fileID: 807199988}
   - component: {fileID: 807199987}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (103)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -12094,7 +12094,7 @@ GameObject:
   - component: {fileID: 809183649}
   - component: {fileID: 809183648}
   - component: {fileID: 809183647}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (85)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -12239,7 +12239,7 @@ GameObject:
   - component: {fileID: 819503103}
   - component: {fileID: 819503102}
   - component: {fileID: 819503101}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (37)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -12475,7 +12475,7 @@ GameObject:
   - component: {fileID: 822602751}
   - component: {fileID: 822602750}
   - component: {fileID: 822602749}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (174)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -12711,7 +12711,7 @@ GameObject:
   - component: {fileID: 827254800}
   - component: {fileID: 827254799}
   - component: {fileID: 827254798}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (122)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -12856,7 +12856,7 @@ GameObject:
   - component: {fileID: 836414893}
   - component: {fileID: 836414892}
   - component: {fileID: 836414891}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (41)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -13001,7 +13001,7 @@ GameObject:
   - component: {fileID: 841987968}
   - component: {fileID: 841987967}
   - component: {fileID: 841987966}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (112)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -13146,7 +13146,7 @@ GameObject:
   - component: {fileID: 846037242}
   - component: {fileID: 846037241}
   - component: {fileID: 846037240}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (141)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -13367,7 +13367,7 @@ GameObject:
   - component: {fileID: 851597398}
   - component: {fileID: 851597397}
   - component: {fileID: 851597396}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (61)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -13642,6 +13642,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9f5743ce3492824d8f6479476d78524, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  nav: {fileID: 0}
+  isActive: 0
 --- !u!1 &854326205
 GameObject:
   m_ObjectHideFlags: 0
@@ -13657,7 +13659,7 @@ GameObject:
   - component: {fileID: 854326209}
   - component: {fileID: 854326208}
   - component: {fileID: 854326207}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (97)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -13802,7 +13804,7 @@ GameObject:
   - component: {fileID: 866180113}
   - component: {fileID: 866180112}
   - component: {fileID: 866180111}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (101)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -14026,7 +14028,7 @@ GameObject:
   - component: {fileID: 877725809}
   - component: {fileID: 877725808}
   - component: {fileID: 877725807}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (157)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -14279,7 +14281,7 @@ GameObject:
   - component: {fileID: 894586464}
   - component: {fileID: 894586463}
   - component: {fileID: 894586462}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (83)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -14424,7 +14426,7 @@ GameObject:
   - component: {fileID: 901998436}
   - component: {fileID: 901998435}
   - component: {fileID: 901998434}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (168)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -14569,7 +14571,7 @@ GameObject:
   - component: {fileID: 915548790}
   - component: {fileID: 915548789}
   - component: {fileID: 915548788}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (62)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -14714,7 +14716,7 @@ GameObject:
   - component: {fileID: 927383201}
   - component: {fileID: 927383200}
   - component: {fileID: 927383199}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (54)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -14859,7 +14861,7 @@ GameObject:
   - component: {fileID: 933803897}
   - component: {fileID: 933803896}
   - component: {fileID: 933803895}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (199)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -15171,7 +15173,7 @@ GameObject:
   - component: {fileID: 955700609}
   - component: {fileID: 955700608}
   - component: {fileID: 955700607}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (106)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -15504,7 +15506,7 @@ GameObject:
   - component: {fileID: 988733782}
   - component: {fileID: 988733781}
   - component: {fileID: 988733780}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (124)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -15649,7 +15651,7 @@ GameObject:
   - component: {fileID: 994413138}
   - component: {fileID: 994413143}
   - component: {fileID: 994413144}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (15)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -15885,7 +15887,7 @@ GameObject:
   - component: {fileID: 999053752}
   - component: {fileID: 999053751}
   - component: {fileID: 999053750}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (24)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -16030,7 +16032,7 @@ GameObject:
   - component: {fileID: 1003843033}
   - component: {fileID: 1003843032}
   - component: {fileID: 1003843031}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (151)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -16266,7 +16268,7 @@ GameObject:
   - component: {fileID: 1014598010}
   - component: {fileID: 1014598009}
   - component: {fileID: 1014598008}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (47)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -16411,7 +16413,7 @@ GameObject:
   - component: {fileID: 1026557465}
   - component: {fileID: 1026557464}
   - component: {fileID: 1026557463}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (180)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -16725,7 +16727,7 @@ GameObject:
   - component: {fileID: 1041194845}
   - component: {fileID: 1041194844}
   - component: {fileID: 1041194843}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (186)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -16870,7 +16872,7 @@ GameObject:
   - component: {fileID: 1042180617}
   - component: {fileID: 1042180616}
   - component: {fileID: 1042180615}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (84)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -17094,7 +17096,7 @@ GameObject:
   - component: {fileID: 1060559539}
   - component: {fileID: 1060559538}
   - component: {fileID: 1060559537}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (66)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -17239,7 +17241,7 @@ GameObject:
   - component: {fileID: 1076448417}
   - component: {fileID: 1076448416}
   - component: {fileID: 1076448415}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (190)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -17475,7 +17477,7 @@ GameObject:
   - component: {fileID: 1082837191}
   - component: {fileID: 1082837190}
   - component: {fileID: 1082837189}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (33)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -17778,7 +17780,7 @@ GameObject:
   - component: {fileID: 1100364345}
   - component: {fileID: 1100364344}
   - component: {fileID: 1100364343}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (79)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -17923,7 +17925,7 @@ GameObject:
   - component: {fileID: 1102499179}
   - component: {fileID: 1102499178}
   - component: {fileID: 1102499177}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (86)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -18068,7 +18070,7 @@ GameObject:
   - component: {fileID: 1123862977}
   - component: {fileID: 1123862982}
   - component: {fileID: 1123862983}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (5)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -18313,7 +18315,7 @@ GameObject:
   - component: {fileID: 1153336587}
   - component: {fileID: 1153336586}
   - component: {fileID: 1153336585}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (68)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -18458,7 +18460,7 @@ GameObject:
   - component: {fileID: 1165475345}
   - component: {fileID: 1165475344}
   - component: {fileID: 1165475343}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (67)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -18603,7 +18605,7 @@ GameObject:
   - component: {fileID: 1197752348}
   - component: {fileID: 1197752347}
   - component: {fileID: 1197752346}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (182)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -18748,7 +18750,7 @@ GameObject:
   - component: {fileID: 1199372279}
   - component: {fileID: 1199372278}
   - component: {fileID: 1199372277}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (23)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -18893,7 +18895,7 @@ GameObject:
   - component: {fileID: 1200552902}
   - component: {fileID: 1200552901}
   - component: {fileID: 1200552900}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (108)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -19038,7 +19040,7 @@ GameObject:
   - component: {fileID: 1203259445}
   - component: {fileID: 1203259444}
   - component: {fileID: 1203259443}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (28)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -19183,7 +19185,7 @@ GameObject:
   - component: {fileID: 1212088692}
   - component: {fileID: 1212088691}
   - component: {fileID: 1212088690}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (176)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -19328,7 +19330,7 @@ GameObject:
   - component: {fileID: 1212538028}
   - component: {fileID: 1212538027}
   - component: {fileID: 1212538026}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (114)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -19479,7 +19481,7 @@ GameObject:
   - component: {fileID: 1221382328}
   - component: {fileID: 1221382327}
   - component: {fileID: 1221382326}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (76)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -19624,7 +19626,7 @@ GameObject:
   - component: {fileID: 1228070059}
   - component: {fileID: 1228070058}
   - component: {fileID: 1228070057}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (26)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -19860,7 +19862,7 @@ GameObject:
   - component: {fileID: 1230509538}
   - component: {fileID: 1230509537}
   - component: {fileID: 1230509536}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (46)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -20005,7 +20007,7 @@ GameObject:
   - component: {fileID: 1232065152}
   - component: {fileID: 1232065157}
   - component: {fileID: 1232065158}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (7)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -20150,7 +20152,7 @@ GameObject:
   - component: {fileID: 1237554055}
   - component: {fileID: 1237554054}
   - component: {fileID: 1237554053}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (197)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -20309,9 +20311,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c41fa27d09a78bb4fa932af5d978334e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  mapWidth: 50
+  mapHeight: 50
   citizen: {fileID: 1177209002450630505, guid: 9972ec153f44d6845953d716deb16671, type: 3}
   powerupSpeed: {fileID: 5381842158816205252, guid: d9d66ab44d5488941b670958b622a513,
     type: 3}
+  powerupAdd: {fileID: 7453230272501012459, guid: 5948a1a9f9d5da1419403fb29ccdc8de,
+    type: 3}
+  tornado: {fileID: 1265422565163682}
+  tornadoShowtime: 5
 --- !u!4 &1243257657
 Transform:
   m_ObjectHideFlags: 0
@@ -20341,7 +20349,7 @@ GameObject:
   - component: {fileID: 1260606914}
   - component: {fileID: 1260606913}
   - component: {fileID: 1260606912}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (40)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -20561,7 +20569,7 @@ GameObject:
   - component: {fileID: 1274441215}
   - component: {fileID: 1274441214}
   - component: {fileID: 1274441213}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (89)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -20706,7 +20714,7 @@ GameObject:
   - component: {fileID: 1280808887}
   - component: {fileID: 1280808886}
   - component: {fileID: 1280808885}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (200)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -20836,6 +20844,38 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1280808883}
   m_Mesh: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1281471091
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1281471092}
+  m_Layer: 0
+  m_Name: PrePowerUp
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1281471092
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1281471091}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1628390699}
+  - {fileID: 8913150623502467758}
+  m_Father: {fileID: 0}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1282681986
 GameObject:
   m_ObjectHideFlags: 0
@@ -20851,7 +20891,7 @@ GameObject:
   - component: {fileID: 1282681990}
   - component: {fileID: 1282681989}
   - component: {fileID: 1282681988}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (169)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -20996,7 +21036,7 @@ GameObject:
   - component: {fileID: 1298726476}
   - component: {fileID: 1298726475}
   - component: {fileID: 1298726474}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (191)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -21141,7 +21181,7 @@ GameObject:
   - component: {fileID: 1300455871}
   - component: {fileID: 1300455870}
   - component: {fileID: 1300455869}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (185)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -21286,7 +21326,7 @@ GameObject:
   - component: {fileID: 1308193173}
   - component: {fileID: 1308193178}
   - component: {fileID: 1308193179}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (11)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -21431,7 +21471,7 @@ GameObject:
   - component: {fileID: 1310299197}
   - component: {fileID: 1310299196}
   - component: {fileID: 1310299195}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (38)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -21576,7 +21616,7 @@ GameObject:
   - component: {fileID: 1327494126}
   - component: {fileID: 1327494125}
   - component: {fileID: 1327494124}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (58)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -21813,7 +21853,7 @@ GameObject:
   - component: {fileID: 1347230208}
   - component: {fileID: 1347230207}
   - component: {fileID: 1347230206}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (181)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -21958,7 +21998,7 @@ GameObject:
   - component: {fileID: 1371701551}
   - component: {fileID: 1371701550}
   - component: {fileID: 1371701549}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (171)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -22103,7 +22143,7 @@ GameObject:
   - component: {fileID: 1375537639}
   - component: {fileID: 1375537638}
   - component: {fileID: 1375537637}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (143)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -22248,7 +22288,7 @@ GameObject:
   - component: {fileID: 1385282794}
   - component: {fileID: 1385282799}
   - component: {fileID: 1385282800}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (8)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -22432,7 +22472,7 @@ MonoBehaviour:
   redImg: {fileID: 1951673660}
   redNumTxt: {fileID: 394911466}
   timeTxt: {fileID: 1765309480}
-  timeLimit: 60
+  timeLimit: 30
   overPanelCurve:
     serializedVersion: 2
     m_Curve:
@@ -22476,7 +22516,7 @@ GameObject:
   - component: {fileID: 1389672718}
   - component: {fileID: 1389672717}
   - component: {fileID: 1389672716}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (175)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -22712,7 +22752,7 @@ GameObject:
   - component: {fileID: 1413365036}
   - component: {fileID: 1413365035}
   - component: {fileID: 1413365034}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (153)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -22857,7 +22897,7 @@ GameObject:
   - component: {fileID: 1426915293}
   - component: {fileID: 1426915292}
   - component: {fileID: 1426915291}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (147)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -23093,7 +23133,7 @@ GameObject:
   - component: {fileID: 1435934460}
   - component: {fileID: 1435934459}
   - component: {fileID: 1435934458}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (198)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -23238,7 +23278,7 @@ GameObject:
   - component: {fileID: 1443588198}
   - component: {fileID: 1443588203}
   - component: {fileID: 1443588204}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (13)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -23383,7 +23423,7 @@ GameObject:
   - component: {fileID: 1454829346}
   - component: {fileID: 1454829345}
   - component: {fileID: 1454829344}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (109)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -23528,7 +23568,7 @@ GameObject:
   - component: {fileID: 1460726469}
   - component: {fileID: 1460726468}
   - component: {fileID: 1460726467}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (78)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -23673,7 +23713,7 @@ GameObject:
   - component: {fileID: 1460748044}
   - component: {fileID: 1460748043}
   - component: {fileID: 1460748042}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (17)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -23818,7 +23858,7 @@ GameObject:
   - component: {fileID: 1475330156}
   - component: {fileID: 1475330155}
   - component: {fileID: 1475330154}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (134)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -24075,7 +24115,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -403.1, y: 984}
+  m_AnchoredPosition: {x: -403.0996, y: 984}
   m_SizeDelta: {x: -1288.3, y: -2764.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1479552955
@@ -24130,7 +24170,7 @@ GameObject:
   - component: {fileID: 1487840077}
   - component: {fileID: 1487840076}
   - component: {fileID: 1487840075}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (116)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -24275,7 +24315,7 @@ GameObject:
   - component: {fileID: 1492515896}
   - component: {fileID: 1492515895}
   - component: {fileID: 1492515894}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (184)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -24552,7 +24592,7 @@ GameObject:
   - component: {fileID: 1502883565}
   - component: {fileID: 1502883564}
   - component: {fileID: 1502883563}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (22)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -24697,7 +24737,7 @@ GameObject:
   - component: {fileID: 1510282429}
   - component: {fileID: 1510282434}
   - component: {fileID: 1510282435}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (12)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -24842,7 +24882,7 @@ GameObject:
   - component: {fileID: 1513928156}
   - component: {fileID: 1513928155}
   - component: {fileID: 1513928154}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (137)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -24987,7 +25027,7 @@ GameObject:
   - component: {fileID: 1515576441}
   - component: {fileID: 1515576440}
   - component: {fileID: 1515576439}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (80)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -25223,7 +25263,7 @@ GameObject:
   - component: {fileID: 1534745025}
   - component: {fileID: 1534745024}
   - component: {fileID: 1534745023}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (59)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -25368,7 +25408,7 @@ GameObject:
   - component: {fileID: 1551306753}
   - component: {fileID: 1551306752}
   - component: {fileID: 1551306751}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (131)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -25513,7 +25553,7 @@ GameObject:
   - component: {fileID: 1552308965}
   - component: {fileID: 1552308964}
   - component: {fileID: 1552308963}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (29)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -25658,7 +25698,7 @@ GameObject:
   - component: {fileID: 1552722388}
   - component: {fileID: 1552722387}
   - component: {fileID: 1552722386}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (19)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -25803,7 +25843,7 @@ GameObject:
   - component: {fileID: 1575176620}
   - component: {fileID: 1575176619}
   - component: {fileID: 1575176618}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (152)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -25948,7 +25988,7 @@ GameObject:
   - component: {fileID: 1577374681}
   - component: {fileID: 1577374680}
   - component: {fileID: 1577374679}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (192)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -26093,7 +26133,7 @@ GameObject:
   - component: {fileID: 1589011666}
   - component: {fileID: 1589011665}
   - component: {fileID: 1589011664}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (71)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -26238,7 +26278,7 @@ GameObject:
   - component: {fileID: 1592711233}
   - component: {fileID: 1592711232}
   - component: {fileID: 1592711231}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (130)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -26383,7 +26423,7 @@ GameObject:
   - component: {fileID: 1594950758}
   - component: {fileID: 1594950757}
   - component: {fileID: 1594950756}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (117)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -26528,7 +26568,7 @@ GameObject:
   - component: {fileID: 1603785170}
   - component: {fileID: 1603785169}
   - component: {fileID: 1603785168}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (25)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -26658,6 +26698,12 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1603785166}
   m_Mesh: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &1628390699 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5385032626946768838, guid: d9d66ab44d5488941b670958b622a513,
+    type: 3}
+  m_PrefabInstance: {fileID: 5383465681421236946}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1636544676
 GameObject:
   m_ObjectHideFlags: 0
@@ -26752,7 +26798,7 @@ GameObject:
   - component: {fileID: 1642013870}
   - component: {fileID: 1642013875}
   - component: {fileID: 1642013876}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (3)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -26897,7 +26943,7 @@ GameObject:
   - component: {fileID: 1642854794}
   - component: {fileID: 1642854793}
   - component: {fileID: 1642854792}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (20)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -27329,6 +27375,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8f605ccad6bd6547b6773aee047e1b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  nav: {fileID: 0}
+  isActive: 0
 --- !u!136 &1647181679
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -27511,7 +27559,7 @@ GameObject:
   - component: {fileID: 1674916392}
   - component: {fileID: 1674916391}
   - component: {fileID: 1674916390}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (75)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -27656,7 +27704,7 @@ GameObject:
   - component: {fileID: 1686880627}
   - component: {fileID: 1686880626}
   - component: {fileID: 1686880625}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (158)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -27880,7 +27928,7 @@ GameObject:
   - component: {fileID: 1695368597}
   - component: {fileID: 1695368602}
   - component: {fileID: 1695368603}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (1)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -28155,6 +28203,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9f5743ce3492824d8f6479476d78524, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  nav: {fileID: 0}
+  isActive: 0
 --- !u!1 &1698344109
 GameObject:
   m_ObjectHideFlags: 0
@@ -28170,7 +28220,7 @@ GameObject:
   - component: {fileID: 1698344113}
   - component: {fileID: 1698344112}
   - component: {fileID: 1698344111}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (144)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -28315,7 +28365,7 @@ GameObject:
   - component: {fileID: 1701848585}
   - component: {fileID: 1701848584}
   - component: {fileID: 1701848583}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (70)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -28460,7 +28510,7 @@ GameObject:
   - component: {fileID: 1720328582}
   - component: {fileID: 1720328581}
   - component: {fileID: 1720328580}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (72)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -28605,7 +28655,7 @@ GameObject:
   - component: {fileID: 1758871546}
   - component: {fileID: 1758871551}
   - component: {fileID: 1758871552}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (4)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -28750,7 +28800,7 @@ GameObject:
   - component: {fileID: 1764144824}
   - component: {fileID: 1764144823}
   - component: {fileID: 1764144822}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (57)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -28895,7 +28945,7 @@ GameObject:
   - component: {fileID: 1764283174}
   - component: {fileID: 1764283173}
   - component: {fileID: 1764283172}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (64)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -29119,7 +29169,7 @@ GameObject:
   - component: {fileID: 1770531997}
   - component: {fileID: 1770531996}
   - component: {fileID: 1770531995}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (163)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -29264,7 +29314,7 @@ GameObject:
   - component: {fileID: 1777756798}
   - component: {fileID: 1777756797}
   - component: {fileID: 1777756796}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (107)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -29409,7 +29459,7 @@ GameObject:
   - component: {fileID: 1781546981}
   - component: {fileID: 1781546980}
   - component: {fileID: 1781546979}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (135)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -29554,7 +29604,7 @@ GameObject:
   - component: {fileID: 1808813795}
   - component: {fileID: 1808813794}
   - component: {fileID: 1808813793}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (91)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -29699,7 +29749,7 @@ GameObject:
   - component: {fileID: 1811953184}
   - component: {fileID: 1811953183}
   - component: {fileID: 1811953182}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (170)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -29844,7 +29894,7 @@ GameObject:
   - component: {fileID: 1821034089}
   - component: {fileID: 1821034088}
   - component: {fileID: 1821034087}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (173)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -30091,7 +30141,7 @@ GameObject:
   - component: {fileID: 1833649038}
   - component: {fileID: 1833649037}
   - component: {fileID: 1833649036}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (63)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -30236,7 +30286,7 @@ GameObject:
   - component: {fileID: 1841960107}
   - component: {fileID: 1841960106}
   - component: {fileID: 1841960105}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (125)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -30381,7 +30431,7 @@ GameObject:
   - component: {fileID: 1846425114}
   - component: {fileID: 1846425113}
   - component: {fileID: 1846425112}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (60)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -30526,7 +30576,7 @@ GameObject:
   - component: {fileID: 1853259861}
   - component: {fileID: 1853259860}
   - component: {fileID: 1853259859}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (196)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -30671,7 +30721,7 @@ GameObject:
   - component: {fileID: 1876942427}
   - component: {fileID: 1876942426}
   - component: {fileID: 1876942425}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (189)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -30816,7 +30866,7 @@ GameObject:
   - component: {fileID: 1887531325}
   - component: {fileID: 1887531324}
   - component: {fileID: 1887531323}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (155)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -31040,7 +31090,7 @@ GameObject:
   - component: {fileID: 1895985422}
   - component: {fileID: 1895985421}
   - component: {fileID: 1895985420}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (51)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -31185,7 +31235,7 @@ GameObject:
   - component: {fileID: 1908013672}
   - component: {fileID: 1908013671}
   - component: {fileID: 1908013670}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (73)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -31330,7 +31380,7 @@ GameObject:
   - component: {fileID: 1922120761}
   - component: {fileID: 1922120766}
   - component: {fileID: 1922120767}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (2)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -31475,7 +31525,7 @@ GameObject:
   - component: {fileID: 1933764108}
   - component: {fileID: 1933764107}
   - component: {fileID: 1933764106}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (146)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -31620,7 +31670,7 @@ GameObject:
   - component: {fileID: 1942086111}
   - component: {fileID: 1942086110}
   - component: {fileID: 1942086109}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (178)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -31765,7 +31815,7 @@ GameObject:
   - component: {fileID: 1942555144}
   - component: {fileID: 1942555143}
   - component: {fileID: 1942555142}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (111)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -31910,7 +31960,7 @@ GameObject:
   - component: {fileID: 1948736576}
   - component: {fileID: 1948736575}
   - component: {fileID: 1948736574}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (194)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -32076,7 +32126,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -403.1, y: 1243.3}
+  m_AnchoredPosition: {x: -403.0996, y: 1243.3}
   m_SizeDelta: {x: -1288.3, y: -2811.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1951673660
@@ -32131,7 +32181,7 @@ GameObject:
   - component: {fileID: 1956286474}
   - component: {fileID: 1956286473}
   - component: {fileID: 1956286472}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (50)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -32276,7 +32326,7 @@ GameObject:
   - component: {fileID: 1977604597}
   - component: {fileID: 1977604596}
   - component: {fileID: 1977604595}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (49)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -32421,7 +32471,7 @@ GameObject:
   - component: {fileID: 1995988488}
   - component: {fileID: 1995988487}
   - component: {fileID: 1995988486}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (159)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -32566,7 +32616,7 @@ GameObject:
   - component: {fileID: 2001667216}
   - component: {fileID: 2001667215}
   - component: {fileID: 2001667214}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (193)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -32711,7 +32761,7 @@ GameObject:
   - component: {fileID: 2013665969}
   - component: {fileID: 2013665968}
   - component: {fileID: 2013665967}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (18)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -32947,7 +32997,7 @@ GameObject:
   - component: {fileID: 2033292963}
   - component: {fileID: 2033292962}
   - component: {fileID: 2033292961}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (113)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -33092,7 +33142,7 @@ GameObject:
   - component: {fileID: 2041959144}
   - component: {fileID: 2041959143}
   - component: {fileID: 2041959142}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (172)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -33237,7 +33287,7 @@ GameObject:
   - component: {fileID: 2062236977}
   - component: {fileID: 2062236976}
   - component: {fileID: 2062236975}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (35)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -33461,7 +33511,7 @@ GameObject:
   - component: {fileID: 2087999846}
   - component: {fileID: 2087999845}
   - component: {fileID: 2087999844}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (43)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -33606,7 +33656,7 @@ GameObject:
   - component: {fileID: 2108520333}
   - component: {fileID: 2108520332}
   - component: {fileID: 2108520331}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (21)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -33751,7 +33801,7 @@ GameObject:
   - component: {fileID: 2113538704}
   - component: {fileID: 2113538703}
   - component: {fileID: 2113538702}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (96)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -33896,7 +33946,7 @@ GameObject:
   - component: {fileID: 2114950644}
   - component: {fileID: 2114950643}
   - component: {fileID: 2114950642}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (136)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -34041,7 +34091,7 @@ GameObject:
   - component: {fileID: 2116433564}
   - component: {fileID: 2116433563}
   - component: {fileID: 2116433562}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (140)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -34186,7 +34236,7 @@ GameObject:
   - component: {fileID: 2127225999}
   - component: {fileID: 2127225998}
   - component: {fileID: 2127225997}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (160)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -34331,7 +34381,7 @@ GameObject:
   - component: {fileID: 2128262485}
   - component: {fileID: 2128262484}
   - component: {fileID: 2128262483}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (69)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -34476,7 +34526,7 @@ GameObject:
   - component: {fileID: 2131074559}
   - component: {fileID: 2131074558}
   - component: {fileID: 2131074557}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (56)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -34641,7 +34691,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.005004883, y: -0.024902344}
+  m_AnchoredPosition: {x: -0.0048828125, y: -0.024902344}
   m_SizeDelta: {x: -0.010002, y: 0.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2137233779
@@ -34696,7 +34746,7 @@ GameObject:
   - component: {fileID: 2139284764}
   - component: {fileID: 2139284763}
   - component: {fileID: 2139284762}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Citizen (27)
   m_TagString: CITIZEN
   m_Icon: {fileID: 0}
@@ -34826,6 +34876,39 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2139284760}
   m_Mesh: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1265422565163682 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6625930871088552808, guid: ee85517e3472a804092161b6f651f02e,
+    type: 3}
+  m_PrefabInstance: {fileID: 6624926858569570762}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1265422565163683
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1265422565163682}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d111bf88c00a8dc449c42f46d9fd2339, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mat: {fileID: 2100000, guid: bf782cb91339d5b48885d3be20b72fc8, type: 2}
+  effect: {fileID: 7976438159118635677, guid: 1d9ed44ede8bb684da8d994e7294e865, type: 3}
+--- !u!135 &1265422565163684
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1265422565163682}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 1
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &889373056574274011
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -34978,12 +35061,81 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9972ec153f44d6845953d716deb16671, type: 3}
+--- !u!1001 &2074706828949595593
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1281471092}
+    m_Modifications:
+    - target: {fileID: 7453230272501012459, guid: 5948a1a9f9d5da1419403fb29ccdc8de,
+        type: 3}
+      propertyPath: m_Name
+      value: PowerupAdd
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456564168426301287, guid: 5948a1a9f9d5da1419403fb29ccdc8de,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456564168426301287, guid: 5948a1a9f9d5da1419403fb29ccdc8de,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456564168426301287, guid: 5948a1a9f9d5da1419403fb29ccdc8de,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -42.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456564168426301287, guid: 5948a1a9f9d5da1419403fb29ccdc8de,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456564168426301287, guid: 5948a1a9f9d5da1419403fb29ccdc8de,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456564168426301287, guid: 5948a1a9f9d5da1419403fb29ccdc8de,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456564168426301287, guid: 5948a1a9f9d5da1419403fb29ccdc8de,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456564168426301287, guid: 5948a1a9f9d5da1419403fb29ccdc8de,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456564168426301287, guid: 5948a1a9f9d5da1419403fb29ccdc8de,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456564168426301287, guid: 5948a1a9f9d5da1419403fb29ccdc8de,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7456564168426301287, guid: 5948a1a9f9d5da1419403fb29ccdc8de,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5948a1a9f9d5da1419403fb29ccdc8de, type: 3}
 --- !u!1001 &5383465681421236946
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1281471092}
     m_Modifications:
     - target: {fileID: 5381842158816205252, guid: d9d66ab44d5488941b670958b622a513,
         type: 3}
@@ -34993,7 +35145,7 @@ PrefabInstance:
     - target: {fileID: 5385032626946768838, guid: d9d66ab44d5488941b670958b622a513,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.13
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 5385032626946768838, guid: d9d66ab44d5488941b670958b622a513,
         type: 3}
@@ -35003,7 +35155,7 @@ PrefabInstance:
     - target: {fileID: 5385032626946768838, guid: d9d66ab44d5488941b670958b622a513,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -35.3
+      value: -35.1
       objectReference: {fileID: 0}
     - target: {fileID: 5385032626946768838, guid: d9d66ab44d5488941b670958b622a513,
         type: 3}
@@ -35013,12 +35165,12 @@ PrefabInstance:
     - target: {fileID: 5385032626946768838, guid: d9d66ab44d5488941b670958b622a513,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 5385032626946768838, guid: d9d66ab44d5488941b670958b622a513,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 5385032626946768838, guid: d9d66ab44d5488941b670958b622a513,
         type: 3}
@@ -35028,7 +35180,7 @@ PrefabInstance:
     - target: {fileID: 5385032626946768838, guid: d9d66ab44d5488941b670958b622a513,
         type: 3}
       propertyPath: m_RootOrder
-      value: 14
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5385032626946768838, guid: d9d66ab44d5488941b670958b622a513,
         type: 3}
@@ -35047,3 +35199,78 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9d66ab44d5488941b670958b622a513, type: 3}
+--- !u!1001 &6624926858569570762
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6625930871088552808, guid: ee85517e3472a804092161b6f651f02e,
+        type: 3}
+      propertyPath: m_Name
+      value: LightningTornado
+      objectReference: {fileID: 0}
+    - target: {fileID: 6620640928142811876, guid: ee85517e3472a804092161b6f651f02e,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.36
+      objectReference: {fileID: 0}
+    - target: {fileID: 6620640928142811876, guid: ee85517e3472a804092161b6f651f02e,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6620640928142811876, guid: ee85517e3472a804092161b6f651f02e,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -18.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 6620640928142811876, guid: ee85517e3472a804092161b6f651f02e,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.70710677
+      objectReference: {fileID: 0}
+    - target: {fileID: 6620640928142811876, guid: ee85517e3472a804092161b6f651f02e,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6620640928142811876, guid: ee85517e3472a804092161b6f651f02e,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6620640928142811876, guid: ee85517e3472a804092161b6f651f02e,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 6620640928142811876, guid: ee85517e3472a804092161b6f651f02e,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 6620640928142811876, guid: ee85517e3472a804092161b6f651f02e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6620640928142811876, guid: ee85517e3472a804092161b6f651f02e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6620640928142811876, guid: ee85517e3472a804092161b6f651f02e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ee85517e3472a804092161b6f651f02e, type: 3}
+--- !u!4 &8913150623502467758 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7456564168426301287, guid: 5948a1a9f9d5da1419403fb29ccdc8de,
+    type: 3}
+  m_PrefabInstance: {fileID: 2074706828949595593}
+  m_PrefabAsset: {fileID: 0}

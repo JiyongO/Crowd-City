@@ -12,6 +12,7 @@ TagManager:
   - RED_Agent
   - YELLOW_Agent
   - Obstacle
+  - TORNADO
   layers:
   - Default
   - TransparentFX
@@ -21,7 +22,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - UNIT
   - 
   - 
   - 

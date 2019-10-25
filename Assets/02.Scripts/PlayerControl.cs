@@ -3,82 +3,92 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
-public class PlayerControl : MonoBehaviour
+public class PlayerControl : MonoBehaviour,IOnTornado
 {
     protected Material mat;
-    protected NavMeshAgent nav;
+    public NavMeshAgent nav;
+    public bool isActive;
     protected void Start()
     {
+        StartCoroutine(OnStart());
         nav = GetComponent<NavMeshAgent>();
         mat = GetComponent<MeshRenderer>().material;
     }
+    IEnumerator OnStart()
+    {
+        yield return new WaitForSeconds(0.5f);
+        isActive = true;
+    }
     protected void OnTriggerEnter(Collider other)
     {
-        if (other.tag != tag)
+        if (isActive)
         {
-            string tagName = other.tag;
-            if (tagName == "CITIZEN")
+            if (other.tag != tag)
             {
-                Destroy(other.GetComponent<Citizen>());
-                ChangeColor(other);
-            }
-            else
-            {
-                switch (tagName)
+                string tagName = other.tag;
+                if (tagName == "CITIZEN")
                 {
-                    case "BLUE":
-                        if (Player_UI.playerCnt < GetMyCount(tag))
-                        {
-                            ChangeColor(other);
+                    Destroy(other.GetComponent<Citizen>());
+                    ChangeColor(other);
+                }
+                else
+                {
+                    switch (tagName)
+                    {
+                        case "BLUE":
+                            if (Player_UI.playerCnt < GetMyCount(tag))
+                            {
+                                ChangeColor(other);
+                                break;
+                            }
+                            else
+                                break;
+                        case "Player":
+                            if (Player_UI.playerCnt == 0)
+                            {
+                                Destroy(other.GetComponent<Player>(), 1f);
+                                ChangeColor(other);
+                                break;
+                            }
+                            else
+                                break;
+                        case "RED":
+                            if (Player_UI.redCnt < GetMyCount(tag))
+                            {
+                                Debug.Log("case red");
+                                ChangeColor(other);
+                                break;
+                            }
+                            else
+                                break;
+                        case "RED_Agent":
+                            if (Player_UI.redCnt == 0)
+                            {
+                                Debug.Log("case red_Agent");
+                                ChangeColor(other);
+                                break;
+                            }
+                            else
+                                break;
+                        case "YELLOW":
+                            if (Player_UI.yelCnt < GetMyCount(tag))
+                            {
+                                ChangeColor(other);
+                                break;
+                            }
+                            else
+                                break;
+                        case "YELLOW_Agent":
+                            if (Player_UI.yelCnt == 0)
+                            {
+                                ChangeColor(other);
+                                break;
+                            }
+                            else
+                                break;
+                        default:
                             break;
-                        }
-                        else
-                            break;
-                    case "Player":
-                        if (Player_UI.playerCnt == 0)
-                        {
-                            Destroy(other.GetComponent<Player>(), 1f);
-                            ChangeColor(other);
-                            break;
-                        }
-                        else
-                            break;
-                    case "RED":
-                        if (Player_UI.redCnt < GetMyCount(tag))
-                        {
-                            Debug.Log("case red");
-                            ChangeColor(other);
-                            break;
-                        }
-                        else
-                            break;
-                    case "RED_Agent":
-                        if (Player_UI.redCnt == 0)
-                        {
-                            Debug.Log("case red_Agent");
-                            ChangeColor(other);
-                            break;
-                        }
-                        else
-                            break;
-                    case "YELLOW":
-                        if (Player_UI.yelCnt < GetMyCount(tag))
-                        {
-                            ChangeColor(other);
-                            break;
-                        }
-                        else
-                            break;
-                    case "YELLOW_Agent":
-                        if (Player_UI.yelCnt == 0)
-                        {
-                            ChangeColor(other);
-                            break;
-                        }
-                        else
-                            break;
-                    default:
-                        break;
+                    }
                 }
             }
         }
@@ -102,7 +112,7 @@ public class PlayerControl : MonoBehaviour
     }
     public void ChangeColor(Collider other)
     {   
-        Debug.Log("t enter from " + name);
+        //Debug.Log("t enter from " + name);
         Follower f = other.GetComponent<Follower>();
         //other.transform.parent = transform;
         other.GetComponent<MeshRenderer>().material = mat;
@@ -113,7 +123,7 @@ public class PlayerControl : MonoBehaviour
         if (f != null)
         {
             Destroy(other.GetComponent<Follower>());
-            Debug.Log("destroyed");
+            //Debug.Log("destroyed");
         }
         string tagForOthers = null;
         if (tag.Contains("RED"))
@@ -141,5 +151,13 @@ public class PlayerControl : MonoBehaviour
                 break;
         }
         //f.parent = gameObject;
+    }
+
+    public void IOnTornado(Material mat, Vector3 tornadoPos)
+    {
+        GetComponent<MeshRenderer>().material = mat;
+        nav.enabled = false;
+        GetComponent<Rigidbody>().AddForce((tornadoPos - transform.position) * 50 + Vector3.up * 400);
+        Destroy(gameObject, 2f);
     }
 }

@@ -23,7 +23,9 @@ public class PowerupSpeed : MonoBehaviour
         {
             nav = other.gameObject.GetComponent<NavMeshAgent>();
             nav.speed += 1;
-            Destroy(gameObject);
+            transform.parent = other.transform;
+            transform.localPosition = Vector3.up * 5;
+            Destroy(gameObject, 1f);
         }
     }
 }
